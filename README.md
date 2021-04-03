@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MrCoku/Single-Price-Grid)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-grid-layout-SU5-B1o0A)
 - Live Site URL: [Add live site URL here](https://mrcoku.github.io/Single-Price-Grid/)
 
 ### Built with
